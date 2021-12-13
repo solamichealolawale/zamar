@@ -18,6 +18,7 @@
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="theme-color" content="#ffffff">
 
+	<meta name="description" content="Celebrating God's Love & Faithfulness over Zamar's first Birthday">
 
 	<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;family=Lora:ital,wght@0,400;0,700;1,400;1,700&amp;family=Muli:ital@0;1&amp;family=Merriweather&amp;display=swap" rel="stylesheet">
 	<!-- include the site bootstrap stylesheet -->
@@ -141,7 +142,7 @@
 											</p>
 
 											<p class="mb-5">I want you to know that nothing brings me more joy than
-												seeing your little face looking up at me when I wake in the morning, and
+												seeing your little face looking up at me when I wake up in the morning, and
 												seeing your adorable profile as you sleep soundly in your cot at night.
 												If, sometimes, it seems like I am upset or stressed out, it is not your
 												fault. It is because, like you, I am learning new things, and need a bit
