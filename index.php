@@ -39,7 +39,7 @@
 						<div class="row align-items-center">
 							<div class="col-5">
 								<!-- logo -->
-								<div class="logo text-white h2 small">
+								<div class="logo h2 small">
 									<a href="/">
 										Zamar@1
 									</a>
@@ -246,7 +246,7 @@
 							and
 							support. If you want to help us make it
 							unforgettable, you can contribute using the link below.</p>
-						<a href="https://pay.glade.ng/zamar" class="btn btn-success btnMidMinWidth">Bless the child</a>
+						<a href="https://pay.glade.ng/zamar" class="btn btn-warning rounded btnMidMinWidth">Bless the child</a>
 					</div>
 				</div>
 			</aside>

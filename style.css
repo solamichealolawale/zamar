@@ -11250,3 +11250,11 @@ Animations
     visibility: visible;
   }
 }
+
+.headerFixer a {
+  color: white;
+}
+
+.headerFixer.fixedPosition a {
+  color: black;
+}
