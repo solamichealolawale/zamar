@@ -6,7 +6,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- set the page title -->
-	<title>Zamar@1</title>
+	<title>Zamar Clocks 1</title>
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -18,7 +18,7 @@
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="theme-color" content="#ffffff">
 
-	<meta name="description" content="Celebrating God's Love & Faithfulness over Zamar's first Birthday">
+	<meta name="description" content="Celebrating God's Love & Faithfulness over Zamar's First Birthday">
 
 	<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;family=Lora:ital,wght@0,400;0,700;1,400;1,700&amp;family=Muli:ital@0;1&amp;family=Merriweather&amp;display=swap" rel="stylesheet">
 	<!-- include the site bootstrap stylesheet -->
@@ -79,10 +79,9 @@
 								<div class="container holder position-relative">
 									<div class="row">
 										<div class="col-12 col-sm-10 offset-sm-1">
-											<strong class="d-block fontSerif mainHeadingTitle font-weight-normal mb-5">Celebrating
-												God's Love & Faithfulness</strong>
-											<h1 class="text-white ibbHeading ibbHeadingViv mb-4 mb-lg-8">Baby Zamar @
-												1 </h1>
+											<strong class="d-block fontSerif mainHeadingTitle font-weight-normal mb-5">Congratulations</strong>
+											<h1 class="text-white ibbHeading ibbHeadingViv mb-4 mb-lg-8">Zamar Oluwadunmininu Adetunji Abioye
+												<strong>clocks 1</strong> </h1>
 										</div>
 									</div>
 								</div>
@@ -100,8 +99,7 @@
 										<div class="col-12 col-sm-10 offset-sm-1">
 											<strong class="d-block fontSerif mainHeadingTitle font-weight-normal mb-5">You
 												are one 'one-der-ful' one-year-old!</strong>
-											<h1 class="text-white ibbHeading ibbHeadingViv mb-4 mb-lg-8">Congratulations
-												Baby Zamar</h1>
+											<h1 class="text-white ibbHeading ibbHeadingViv mb-4 mb-lg-8">Baby Zamar Oluwakamiye Ayodipupo Abioye</h1>
 										</div>
 									</div>
 								</div>
@@ -261,7 +259,7 @@
 									<strong class="d-block fontSerif mainHeadingTitle mainHeadingTitleII font-weight-normal text-secondary mb-2">Celebrating
 										God's Love & Faithfulness</strong>
 									<h1 class="ibbHeading ibbHeadingIII position-relative ibbHeadingHasMark d-inline-block align-top mb-4 mb-md-9 px-6 px-xl-9">
-										Zamar Abioye @ 1</h1>
+										Zamar Oluwadunmininu Adetunji Abioye @ 1</h1>
 									<div class="eabDescrText col-lg-8 mx-auto">
 										<p class="mb-7">We pray that you know your Lord a least as well as your parents and grand parents do. we pray that you grow up strong in His Word, committed to His will and blessed in His grace and mercy.
 											God be with you, King Zamar. You are the living, breathing, laughing, cooing evidence that He is with us.</p>
