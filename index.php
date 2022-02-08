@@ -42,7 +42,7 @@
 								<!-- logo -->
 								<div class="logo h2 small">
 									<a href="/">
-										Zamar@1
+										Afoo@1
 									</a>
 								</div>
 							</div>
