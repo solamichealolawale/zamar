@@ -42,7 +42,7 @@
 								<!-- logo -->
 								<div class="logo h2 small">
 									<a href="/">
-										Afoo@1
+										Zamar@1
 									</a>
 								</div>
 							</div>
@@ -98,7 +98,7 @@
 									<div class="row">
 										<div class="col-12 col-sm-10 offset-sm-1">
 											<strong class="d-block fontSerif mainHeadingTitle font-weight-normal mb-5">You
-												are one 'one-der-ful' one-year-old!</strong>
+												are one 'ONE-der-ful' one-year-old!</strong>
 											<h1 class="text-white ibbHeading ibbHeadingViv mb-4 mb-lg-8">Baby Zamar Oluwakamiye Ayodipupo Abioye</h1>
 										</div>
 									</div>
